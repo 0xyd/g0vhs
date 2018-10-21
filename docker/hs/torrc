@@ -1,0 +1,9 @@
+SocksPort auto
+
+HiddenServiceDir /var/lib/tor/hidden_service/test-nginx
+HiddenServiceVersion 3
+HiddenServicePort 80 172.17.0.2:80
+
+ORPort 9001
+
+
