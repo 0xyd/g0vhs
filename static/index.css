@@ -6,3 +6,8 @@ body {
 	background-color: black;
 	min-height: 100%;
 }
+
+.is-horizontal-center {
+	display: flex;
+	justify-content: center;
+}
